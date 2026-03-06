@@ -1,0 +1,26 @@
+# Страницы
+
+Период: 2026-02-04 — 2026-03-06
+
+| url | pageviews | visitors |
+| --- | --- | --- |
+| https://prikotov.pro/blog/pervyi-opyt-s-glm-5-koding-cherez-kilo-code | 382 | 254 |
+| https://prikotov.pro/ | 195 | 112 |
+| https://prikotov.pro/blog/limity-codex-cloud | 169 | 134 |
+| https://prikotov.pro/blog/rag-s-nulya | 129 | 88 |
+| https://prikotov.pro/blog/chto-dolzhen-znat-kazhdyi-ai-inzhener-ob-a2a-mcp-i-acp | 32 | 26 |
+| https://prikotov.pro/blog/pervyi-opyt-s-glm-5-koding-cherez-kilo-code#primer-raboty-v-kilo-code | 32 | 17 |
+| https://prikotov.pro/blog/moi-opyt-s-codex-vliyanie-na-produktivnost | 27 | 19 |
+| https://prikotov.pro/blog/prompt-kak-zaklinanie | 25 | 15 |
+| https://prikotov.pro/blog/fingpt-otkrytye-finansovye-bolshie-yazykovye-modeli | 22 | 16 |
+| https://prikotov.pro/blog/sravnenie-cen-na-llm | 21 | 14 |
+| https://prikotov.pro/blog/whisper-cpp-na-cpu | 19 | 18 |
+| https://prikotov.pro/blog/komandnaya-sistema-ii-agentov-dlya-razrabotki-prilozhenii | 17 | 10 |
+| https://prikotov.pro/blog/luchshie-instrumenty-ii-dlya-programmirovaniya-v-2025-godu-25-servisov-dlya-razrabotchikov-stoit-ispolzovat-ili-izbegat | 15 | 12 |
+| https://prikotov.pro/blog/stonki-ai-personalnyi-khab-dlya-treidinga | 15 | 13 |
+| https://prikotov.pro/blog/kak-razrabotchiki-vstraivayut-ii-v-realnuyu-razrabotku-instrumenty-podkhody-riski | 12 | 10 |
+| https://prikotov.pro/blog/protokol-konteksta-modeli-mcp-polnoe-rukovodstvo | 12 | 11 |
+| https://prikotov.pro/blog/fiction-livebench-22-maya-2025 | 10 | 9 |
+| https://prikotov.pro/blog/kak-nastroit-rabotu-chatgpt-codex-s-php-i-symfony | 10 | 7 |
+| https://prikotov.pro/page:2 | 10 | 5 |
+| https://prikotov.pro/blog/pervyi-opyt-s-glm-5-koding-cherez-kilo-code#obzor-instrumentov-dlya-a | 9 | 2 |
