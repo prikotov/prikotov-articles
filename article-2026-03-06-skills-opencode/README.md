@@ -33,6 +33,7 @@ yandex_webmaster_reports/           # Данные Яндекс.Вебмасте
 ## Процесс
 
 - [AGENTS.md](./AGENTS.md) — описание процесса работы над статьей
+- [skills/blog-writing/SKILL.md](./skills/blog-writing/SKILL.md) — skill для написания статей
 
 ## Связанные проекты
 
